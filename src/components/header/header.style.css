@@ -1,0 +1,15 @@
+.nav-container{
+    background-color: #8db7ba;
+}
+
+.logo-image{
+    width: 3em;
+    margin-right: 10em;
+}
+
+
+.nav-link{
+    display: flex;
+    gap: 2em;
+}
+
